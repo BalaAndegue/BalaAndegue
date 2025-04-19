@@ -32,7 +32,7 @@ J'explore et maîtrise plusieurs domaines du développement informatique, allant
 ---
 
 ## 📫 **Me contacter**  
-💼 LinkedIn → [MonLienLinkedIn]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/fran%C3%A7ois-lionnel-bala-andegue-0118612b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+💼 LinkedIn → [MonLienLinkedIn](https://www.linkedin.com/in/fran%C3%A7ois-lionnel-bala-andegue-0118612b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 📧 Email → [MonEmail](mailto:balaandeguefrancoislionnel@gmail.com)  
 📌 GitHub → [MonProfilGitHub](https://github.com/BalaAndegue)  
 
