@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @BalaAndegue
-- 👀 I’m interested in web site development
-- 🌱 I’m currently learning html css php python javascript
-- 💞️ I’m looking to collaborate on a creation of a web site 
-- 📫 How to reach me ? on my email box balaandeguefrancoislionnel@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 💻 À propos de moi  
 
-<!---
-BalaAndegue/BalaAndegue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Bonjour, je suis **Lionnel**, un passionné de **technologie** et **d'intelligence artificielle** !  
+J'explore et maîtrise plusieurs domaines du développement informatique, allant du **développement web** à **l'apprentissage automatique**.  
+
+---
+
+## 🚀 Compétences  
+
+### 🖥️ **Développement Web**  
+✔ **Frontend** → HTML | CSS | JavaScript | React | React Native  
+✔ **Backend** → Django | Spring Boot  
+✔ **Bases de données** → PostgreSQL | SQLite | Firebase  
+
+### 🔬 **Intelligence Artificielle & Machine Learning**  
+✔ **Machine Learning** → Scikit-Learn | Pandas | NumPy  
+✔ **Deep Learning** → TensorFlow | PyTorch  
+✔ **Optimisation & Modèles avancés**  
+
+### 🛠️ **Autres Technologies**  
+✔ **Développement Desktop** → Tkinter  
+✔ **Déploiement & API** → Django REST Framework | PythonAnywhere  
+✔ **Cloud & Services** → Docker | GitHub Actions  
+
+---
+
+## 🎯 **Ce qui me passionne**  
+🌍 **Les nouvelles technologies** → Toujours à la recherche des innovations qui transforment le monde.  
+🧠 **L'intelligence artificielle** → Exploration des **modèles prédictifs et du deep learning**.  
+🚀 **Créer des applications performantes** → Développement full-stack et gestion des projets.  
+
+---
+
+## 📫 **Me contacter**  
+💼 LinkedIn → [TonLienLinkedIn](https://linkedin.com/in/tonprofil)  
+📧 Email → [TonEmail](mailto:tonemail@gmail.com)  
+📌 GitHub → [TonProfilGitHub](https://github.com/tonprofil)  
+
+---
+
+🔥 **Je suis toujours ouvert aux collaborations et aux défis technologiques.** 🚀  
+🎯 **Si tu as un projet ou une idée, n'hésite pas à me contacter !**  
+
