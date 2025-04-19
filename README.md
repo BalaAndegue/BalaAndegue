@@ -8,7 +8,7 @@ J'explore et maîtrise plusieurs domaines du développement informatique, allant
 ## 🚀 Compétences  
 
 ### 🖥️ **Développement Web**  
-✔ **Frontend** → HTML | CSS | JavaScript | React | React Native  
+✔ **Frontend** → HTML | CSS | JavaScript | React | React Native | Flutter 
 ✔ **Backend** → Django | Spring Boot  
 ✔ **Bases de données** → PostgreSQL | SQLite | Firebase  
 
@@ -18,7 +18,7 @@ J'explore et maîtrise plusieurs domaines du développement informatique, allant
 ✔ **Optimisation & Modèles avancés**  
 
 ### 🛠️ **Autres Technologies**  
-✔ **Développement Desktop** → Tkinter  
+✔ **Développement Desktop** → Tkinter | JavaFx |
 ✔ **Déploiement & API** → Django REST Framework | PythonAnywhere  
 ✔ **Cloud & Services** → Docker | GitHub Actions  
 
@@ -32,9 +32,9 @@ J'explore et maîtrise plusieurs domaines du développement informatique, allant
 ---
 
 ## 📫 **Me contacter**  
-💼 LinkedIn → [TonLienLinkedIn]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/fran%C3%A7ois-lionnel-bala-andegue-0118612b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
-📧 Email → [TonEmail](mailto:balaandeguefrancoislionnel@gmail.com)  
-📌 GitHub → [TonProfilGitHub](https://github.com/BalaAndegue)  
+💼 LinkedIn → [MonLienLinkedIn]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/fran%C3%A7ois-lionnel-bala-andegue-0118612b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+📧 Email → [MonEmail](mailto:balaandeguefrancoislionnel@gmail.com)  
+📌 GitHub → [MonProfilGitHub](https://github.com/BalaAndegue)  
 
 ---
 
