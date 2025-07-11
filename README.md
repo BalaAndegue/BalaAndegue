@@ -9,10 +9,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
 </div>
 
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Tech+World;Full-Stack+Dev+&+AI+Enthusiast)](https://git.io/typing-svg)
-  [![Profile Views](https://komarev.com/ghpvc/?username=BalaAndegue&color=blueviolet)](https://github.com/BalaAndegue)
-</div>
+
 
 ## <img src="https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width="6.5%"> About Me
 
@@ -58,6 +55,41 @@ I explore and master multiple domains of software development, from crafting use
   <a href="https://www.linkedin.com/in/fran%C3%A7ois-lionnel-bala-andegue-0118612b2"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/BalaAndegue"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
+
+
+## 🎯 Techno
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Somme programming language and platform👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,react,tailwind,ts,spring,django,flutter,kali,python,c,vite,threejs,angular,laravel&perline=14" />
+  </a>
+</p>
+
+<p align="center">
+ <h2 align="center">GitHub Readme Stats</h2>
+</p>
+  <p align="center">
+    <a href="https://github.com/Nameless0l/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Nameless0l/github-readme-stats" />
+    </a>
+    <a href="https://github.com/Nameless0l/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Nameless0l/github-readme-stats?color=0088ff" />
+    </a>
+  </p>
+
+</p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nameless0l&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless0l&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+
 
 🔥 **Open to collaborations and tech challenges! Reach out for projects or ideas!**
 
