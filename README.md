@@ -70,24 +70,7 @@ I explore and master multiple domains of software development, from crafting use
   </a>
 </p>
 
-<p align="center">
- <h2 align="center">GitHub Readme Stats</h2>
-</p>
-  <p align="center">
-    <a href="https://github.com/Nameless0l/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Nameless0l/github-readme-stats" />
-    </a>
-    <a href="https://github.com/Nameless0l/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Nameless0l/github-readme-stats?color=0088ff" />
-    </a>
-  </p>
 
-</p>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nameless0l&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless0l&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 
 
@@ -109,13 +92,6 @@ I explore and master multiple domains of software development, from crafting use
 <img src="https://github-profile-trophy.vercel.app/?username=BalaAndegue&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=4&rank=SECRET,S,SS,SSS,A,AA,AAA,B,BB" alt="Trophy" />
 
 ---
-
-## 💭 Quote of the Day
-<div align="center">
-  <blockquote>
-    "The only way to do great work is to love what you do." - Steve Jobs
-  </blockquote>
-</div>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
  
