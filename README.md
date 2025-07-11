@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=300&section=header&text=🤖%20Lionnel%20x%20Mbassi%20Loïc%20Aron%20🤖&fontSize=90&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=300&section=header&text=🤖%20BalaAndegue%20🤖&fontSize=90&animation=fadeIn)
 
 </div>
 
@@ -18,30 +18,25 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="30%">
 
-👋 **We are Lionnel and Mbassi Loïc Aron**, passionate technologists specializing in **full-stack development**, **artificial intelligence**, and **cybersecurity**.  
-We build innovative, secure, and high-performance applications while exploring cutting-edge technologies to shape the future.
+👋 **I'am Bala Andegeue Francois**, passionate technologists specializing in **full-stack development**, **artificial intelligence**, and **cybersecurity**.  
+I build innovative, secure, and high-performance applications while exploring cutting-edge technologies to shape the future.
 
 ---
 
 ## 🚀 Skills
 
 ### 🖥️ **Development**
-✔ **Frontend**: HTML, CSS, JavaScript, React, Angular, Flutter, React Native  
-✔ **Backend**: Django, Spring Boot, Node.js, Laravel  
+✔ **Frontend**: HTML, CSS, ReactJs,NextJs, Flutter, React Native  
+✔ **Backend**: Django, FASTAPI,Flask, Spring Boot, Node.js, Laravel  
 ✔ **Mobile**: Flutter, React Native  
-✔ **Databases**: PostgreSQL, MongoDB, SQLite, Firebase  
+✔ **Databases**:Mysql, PostgreSQL, MongoDB, SQLite, Firebase  
 ✔ **Desktop**: Tkinter, JavaFX  
 ✔ **API & Deployment**: Django REST Framework, PythonAnywhere, GitHub Actions  
 
 ### 🔬 **Artificial Intelligence & Machine Learning**
 ✔ **Machine Learning**: Scikit-Learn, Pandas, NumPy  
-✔ **Deep Learning**: TensorFlow, PyTorch  
+✔ **Deep Learning**: TensorFlow, PyTorch ,Keras
 ✔ **Optimization**: Advanced predictive models  
-
-### 🔐 **Cybersecurity & Pentesting**
-✔ **Penetration Testing**: Kali Linux, Metasploit, Burp Suite  
-✔ **Network Security**: Wireshark, Nmap  
-✔ **Web Security**: OWASP Top 10, Cryptography  
 
 ### ☁ **DevOps & Cloud**
 ✔ **Containerization**: Docker, Kubernetes  
@@ -65,12 +60,7 @@ We build innovative, secure, and high-performance applications while exploring c
   <a href="mailto:balaandeguefrancoislionnel@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/fran%C3%A7ois-lionnel-bala-andegue-0118612b2"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/BalaAndegue"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://twitter.com/MbassiLoic"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="mailto:wwwmbassiloic@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/mbassi-loic-3942a9246"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/Nameless0l"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
+  
 🔥 **Open to collaborations and tech challenges! Reach out for projects or ideas!**
 
 ---
@@ -80,15 +70,13 @@ We build innovative, secure, and high-performance applications while exploring c
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BalaAndegue&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaAndegue&layout=compact&langs_count=7&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nameless0l&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless0l&layout=compact&langs_count=7&theme=radical"/>
+ 
 </div>
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BalaAndegue&bg_color=0d1117&color=FF6B00&line=FFB300&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=Nameless0l&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=4&rank=SECRET,S,SS,SSS,A,AA,AAA,B,BB" alt="Trophy" />
+
 
 ---
 
