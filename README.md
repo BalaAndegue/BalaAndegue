@@ -280,17 +280,7 @@ Workflow   :  data pipelines · cross-validation · hyperparameter tuning · MLf
 
 <div align="center">
 
-### All-time
-<img src="https://github-profile-trophy.vercel.app/?username=BalaAndegue&theme=radical&no-frame=true&no-bg=true&row=1&column=7&rank=SECRET,S,SS,SSS,A,AA,AAA,B,BB,C" alt="Trophy Row 1"/>
-
-### Commits & Contributions
-<img src="https://github-profile-trophy.vercel.app/?username=BalaAndegue&theme=onestar&no-frame=true&no-bg=true&row=1&column=4&title=Commits,Repositories,Stars,Followers" alt="Trophy Commits"/>
-
-### Issues & Pull Requests
-<img src="https://github-profile-trophy.vercel.app/?username=BalaAndegue&theme=juicyfresh&no-frame=true&no-bg=true&row=1&column=4&title=Issues,PullRequest,Reviews,Experience" alt="Trophy PRs"/>
-
-### Reviews & MultiLanguage
-<img src="https://github-profile-trophy.vercel.app/?username=BalaAndegue&theme=algolia&no-frame=true&no-bg=true&row=1&column=4&title=MultiLanguage,Organizations,Reviews,Joined2020" alt="Trophy Extra"/>
+<img src="https://github-profile-trophy.vercel.app/?username=BalaAndegue&theme=radical&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
